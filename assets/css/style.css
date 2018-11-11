@@ -1,0 +1,23 @@
+body{
+    background-image: url(../images/psychic.png);
+    font-size: 30px;
+    box-sizing: border-box;
+}
+
+#game{
+    height: 40%;
+    width:40%;
+    position: relative;
+    top: 40%;
+    left: 40%;
+    padding: .05%;
+    border: 2px solid whitesmoke;
+    background-color: aliceblue;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
